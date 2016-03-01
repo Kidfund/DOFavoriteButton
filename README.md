@@ -1,3 +1,10 @@
+# Community Updates
+
+This repo contains not-yet-official pull requests from the [community](https://github.com/okmr-d/DOFavoriteButton/pulls "community")
+
+- [#10](https://github.com/okmr-d/DOFavoriteButton/pull/10 "#10") swift update
+- [#21](https://github.com/okmr-d/DOFavoriteButton/pull/21 "#21") Button now uses the provided image's frame for layer sizes
+
 # DOFavoriteButton
 [![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
 [![Version](https://img.shields.io/cocoapods/v/DOFavoriteButton.svg?style=flat)](http://cocoapods.org/pods/DOFavoriteButton)
